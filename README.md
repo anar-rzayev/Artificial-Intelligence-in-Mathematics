@@ -1,2 +1,2 @@
-# Introduction-to-Artificial-Intelligence-with-Mathematics
-MAS473 course repository from Fall 2021
+# MAS473 Course Materials from Fall 2021 semester
+
